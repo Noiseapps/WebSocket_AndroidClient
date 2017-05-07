@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WebSockets</string>
+    <string name="connect">Connect</string>
+    <string name="enter_nickname">Enter nickname</string>
+    <string name="enter_server_address">Enter server address (192.168.1.162:8080)</string>
+    <string name="your_message">Your message</string>
+    <string name="send">Send</string>
+    <string name="disconnect">Disconnect</string>
+</resources>
